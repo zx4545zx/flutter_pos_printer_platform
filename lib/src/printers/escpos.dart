@@ -2,7 +2,7 @@ import 'dart:typed_data';
 
 import 'package:flutter_pos_printer_platform/printer.dart';
 import 'package:flutter_pos_printer_platform/src/utils.dart';
-import 'package:image/image.dart';
+import 'package:image_v3/image.dart';
 
 class EscPosPrinter<T> extends GenericPrinter<T> {
   EscPosPrinter(PrinterConnector<T> connector, T model, {this.dpi = 200, required this.width, this.beepCount = 4}) : super(connector, model);
