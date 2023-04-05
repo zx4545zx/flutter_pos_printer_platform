@@ -1,7 +1,7 @@
-name: scope_flutter_pos_printer_platform
+name: flutter_pos_printer_platform
 description: A flutter plugin that prints esc commands to printers in different platforms such as android, ios, windows and different interfaces Bluetooth and BLE, TCP and USB
 version: 1.1.0
-homepage: https://github.com/diantahoc/scope_flutter_pos_printer_platform
+homepage: https://github.com/diantahoc/flutter_pos_printer_platform
 
 environment:
   sdk: '>=2.18.4 <3.3.10'
