@@ -1,8 +1,8 @@
 import 'dart:core';
 import 'dart:typed_data';
 
-import 'package:flutter_pos_printer_platform/printer.dart';
-import 'package:image_v3/image.dart';
+import 'package:flutter_pos_printer_platform_image_3/printer.dart';
+import 'package:image_v3/image_v3.dart';
 
 import '../utils.dart';
 
