@@ -1,8 +1,9 @@
 ## 1.2.3
 
-* Add namespace in build.gradle to be compatible with Gradle 8
-* Fix some errors in Android library
-* Update rxdart minor version
+* Add namespace in build.gradle to be compatible with Gradle 8 (credit: https://github.com/tgarm)
+* Fix some errors in Android library (credit: https://github.com/tgarm)
+* Update rxdart minor version (credit: https://github.com/ivankasalo)
+* Fix windows build (credit: https://github.com/sedess)
 
 ## 1.2.2
 
