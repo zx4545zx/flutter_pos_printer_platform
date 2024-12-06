@@ -1,3 +1,18 @@
+## 1.2.3
+
+* Add namespace in build.gradle to be compatible with Gradle 8
+* Fix some errors in Android library
+* Update rxdart minor version
+
+## 1.2.2
+
+* Fix incorrect ActivityAware lifecycle hooks
+* Fix issue in PendingIntent for Android 14+
+
+## 1.2.1
+
+* Attempt to fix initialized error
+
 ## 1.1.0
 
 * Toast msgs english locale default
