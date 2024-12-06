@@ -1,3 +1,7 @@
+## 1.2.4
+
+* Relax rxdart version to allow library usage in FlutterFlow app builder
+
 ## 1.2.3
 
 * Add namespace in build.gradle to be compatible with Gradle 8 (credit: https://github.com/tgarm)
